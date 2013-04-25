@@ -1,0 +1,26 @@
+// Place all the styles related to the index controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -100;
+}
+
+#content {
+  z-index: 100;
+  width: 100%;
+}
+
+.searchbox {
+  margin: 300px auto;
+  width: 200px;
+  padding: 30px;
+  background: white;
+}
+
+
