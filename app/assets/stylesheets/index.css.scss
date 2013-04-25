@@ -17,10 +17,14 @@
 }
 
 .searchbox {
-  margin: 300px auto;
-  width: 200px;
+  margin: 100px auto;
+  width: 300px;
   padding: 30px;
-  background: white;
+  background: rgba(255,255,255,0.7);
+}
+
+#location {
+  width: 230px;
 }
 
 
